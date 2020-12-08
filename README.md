@@ -1,2 +1,1 @@
-# navbar
-NAVBAR | HTML, CSS, JS
+<h1>Responsive sticky navbar</h1>
